@@ -58,7 +58,8 @@ The dataset represents a simulated real-world hotel booking environment.
 
 Below is a preview of the Power BI dashboard showcasing hotel booking analysis:
 
-![Hotel Booking Dashboard](Hotel%20Booking%20Dashboard.png)
+🔗 **View Dashboard Preview:**  
+[Open Dashboard Preview (Image)](Hotel%20Booking%20Dashboard.png)
 
 *(For full interactivity, please open the `.pbix` file in Power BI Desktop.)*
 
