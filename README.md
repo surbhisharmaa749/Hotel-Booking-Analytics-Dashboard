@@ -7,9 +7,9 @@ Hotel Booking Analysis Dashboard using Power BI
 
 This project focuses on analyzing hotel booking data to understand booking patterns, cancellation behavior, revenue trends, and customer segmentation in the hospitality domain.
 
-The goal is to provide actionable insights related to weekday vs weekend demand, booking lead time, booking channels, and loyalty segmentation to support data-driven hotel operations.
+The dashboard focuses on weekday vs weekend behavior, booking lead time, booking channels, and loyalty segmentation to support data-driven decision-making in hotel operations.
 
-This project was built as part of my learning journey in Power BI, with a focus on Power Query, DAX measures, and interactive dashboard design.
+This project was built as part of my learning journey in Power BI, focusing on Power Query, DAX measures, and interactive dashboard design.
 
 📂 Dataset Overview
 
@@ -49,7 +49,7 @@ Cancellation Percentage
 
 Loyalty-based Booking Counts
 
-Single-night vs Multi-night Bookings
+Single-night and Multi-night Booking Counts
 
 🔍 Key Insights
 
@@ -85,13 +85,13 @@ Data Visualization
 
 Hotel_Booking_Analysis.pbix – Power BI dashboard file
 
-Hotel_Booking_Analysis_Dashboard.pdf – Dashboard & project report
+Hotel_Booking_Analysis_Dashboard.pdf – Final report with dashboard
 
 Hotel Booking Dashboard.png – Dashboard preview image
 
 🚀 Learnings
 
-Designing KPI-focused dashboards
+Designing clean, KPI-focused dashboards
 
 Creating business metrics using DAX
 
@@ -99,7 +99,7 @@ Performing data cleaning and transformation using Power Query
 
 Analyzing booking behavior and customer segmentation
 
-Translating data into meaningful business insights
+Translating data insights into meaningful business understanding
 
 👤 Author
 
@@ -108,5 +108,5 @@ Aspiring Data Analyst
 
 📬 Feedback
 
-Suggestions and feedback are welcome to help me improve as a data analyst.
-Feel free to raise an issue or connect with me to discuss insights from this project.
+Feedback and suggestions are always welcome.
+If you have ideas for improvement or would like to discuss insights from this project, feel free to raise an issue or connect with me on LinkedIn.
