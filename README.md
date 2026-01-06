@@ -1,73 +1,112 @@
-# Hotel-Booking-Analytics-Dashboard
-Hotel Booking Analysis Dashboard built using Power BI to analyze booking patterns, cancellations, revenue trends, and customer segmentation in the hospitality domain. Includes an interactive dashboard and detailed analytical report with business insights and recommendations.
+Hotel-Booking-Analysis-PowerBI
 
-📊 Hotel Booking Analysis Dashboard
+Hotel Booking Analysis Dashboard using Power BI
 
-📖 Project Overview
+📊 Hotel Booking Analysis – Power BI Dashboard
+📌 Project Overview
 
-This project presents an interactive Power BI dashboard to analyze hotel booking data and uncover insights related to booking patterns, cancellation behavior, revenue trends, and customer segmentation in the hospitality domain.
+This project focuses on analyzing hotel booking data to understand booking patterns, cancellation behavior, revenue trends, and customer segmentation in the hospitality domain.
 
-The dashboard focuses on weekday vs weekend behavior, booking lead time, booking channels, and loyalty segmentation to support data-driven operational and managerial decision-making.
+The goal is to provide actionable insights related to weekday vs weekend demand, booking lead time, booking channels, and loyalty segmentation to support data-driven hotel operations.
+
+This project was built as part of my learning journey in Power BI, with a focus on Power Query, DAX measures, and interactive dashboard design.
 
 📂 Dataset Overview
 
-The dataset represents a simulated real-world hotel booking environment and includes the following attributes:
+The dataset represents a simulated real-world hotel booking environment.
+
+Data includes:
+
 Booking Date
+
 Stay Date
+
 Booking Channel
+
 Customer Loyalty Level
+
 Booking Status
+
 Number of Nights
+
 Room Rate
+
 Revenue
 
-The dataset is designed to reflect typical hotel reservation scenarios used in hospitality analytics.
+📊 Key KPIs
 
-📈 Key KPIs
-
-The following KPIs were created using DAX in Power BI:
 Booking Count
+
 Total Revenue
+
 Average Room Rate (ADR)
+
 Total Room Nights
+
 Cancellation Count
+
 Cancellation Percentage
+
 Loyalty-based Booking Counts
-Single-night and Multi-night Booking Counts
+
+Single-night vs Multi-night Bookings
 
 🔍 Key Insights
 
-1. Weekday bookings account for a higher share of total booking volume, while weekends remain strategically important.
-2. Cancellation rates vary across customer segments, with non-members showing relatively higher cancellation behavior.
-3. Loyalty members contribute a larger share of total bookings compared to non-members.
-4. A large portion of bookings are made within one week of the stay, indicating last-minute booking behavior.
-5. Direct hotel bookings and connected wholesalers generate the highest booking volumes across channels.
+Weekday bookings account for a higher share of total booking volume, while weekends remain strategically important.
 
-🛠 Tools and Technologies
-1. Microsoft Power BI
-2. Power Query
-3. DAX (Data Analysis Expressions)
+Cancellation rates vary across customer segments based on loyalty selection.
 
-📁 Files Included
+Loyalty members contribute a larger share of total bookings compared to non-members.
 
-1. Dashboard Preview Image: [Hotel Booking Dashboard](Hotel%20Booking%20Dashboard.png)
-2. Power BI Dashboard (.pbix): [Download PBIX](Hotel_Booking_Analysis.pbix)
-3. Final Project Report (PDF): [View Report (PDF)](Hotel_Booking_Analysis_Dashboard.pdf)
+A large portion of bookings are made within one week of the stay, indicating last-minute booking behavior.
 
-📚 Learnings
+Direct hotel bookings and connected wholesalers generate the highest booking volumes.
 
-Through this project, I gained hands-on experience in:
-1. Data cleaning and transformation using Power Query
-2. Creating business KPIs using DAX
-3. Designing interactive dashboards with consistent visual themes
-4. Analyzing booking behavior and customer segmentation
-5. Translating data insights into business recommendations
+📸 Dashboard Preview
+
+Below is a preview of the Power BI dashboard showcasing hotel booking analysis:
+
+Dashboard Preview
+
+(For full interactivity, please open the .pbix file in Power BI Desktop.)
+
+🛠 Tools & Technologies
+
+Power BI
+
+Power Query
+
+DAX (Data Analysis Expressions)
+
+Data Visualization
+
+📎 Files Included
+
+Hotel_Booking_Analysis.pbix – Power BI dashboard file
+
+Hotel_Booking_Analysis_Dashboard.pdf – Dashboard & project report
+
+Hotel Booking Dashboard.png – Dashboard preview image
+
+🚀 Learnings
+
+Designing KPI-focused dashboards
+
+Creating business metrics using DAX
+
+Performing data cleaning and transformation using Power Query
+
+Analyzing booking behavior and customer segmentation
+
+Translating data into meaningful business insights
 
 👤 Author
-Surbhi Sharma
-Department of Computer Science Engineering
-Chandigarh University, India
 
-💬 Feedback
-Feedback and suggestions are always welcome.
-If you have ideas for improvement or would like to discuss insights from this project, feel free to raise an issue or connect with me on LinkedIn.
+Surbhi Sharma
+Aspiring Data Analyst
+
+📬 Feedback
+
+Suggestions and feedback are welcome to help me improve as a data analyst.
+Feel free to raise an issue or connect with me to discuss insights from this project.
