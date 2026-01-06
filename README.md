@@ -50,9 +50,9 @@ Single-night and Multi-night Booking Counts
 
 📁 Files Included
 
-Hotel_Booking_Analysis.pbix – Power BI dashboard file
-dashboard_preview.png – Dashboard screenshots
-Hotel_Booking_Analysis_Report.pdf – Final project report
+1. Dashboard Preview Image: [Hotel Booking Dashboard](Hotel%20Booking%20Dashboard.png)
+2. Power BI Dashboard (.pbix): [Download PBIX](Hotel_Booking_Analysis.pbix)
+3. Final Project Report (PDF): [View Report (PDF)](Hotel_Booking_Analysis_Dashboard.pdf)
 
 📚 Learnings
 
